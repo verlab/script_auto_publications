@@ -132,23 +132,23 @@ table.display td.center {
 }
 
 .sorting_asc {
-    background: url('images/sort_asc.png') no-repeat center right;
+    background: url('https://www.verlab.dcc.ufmg.br/script_publications/sort_asc.png') no-repeat center right;
 }
 
 .sorting_desc {
-    background: url('images/sort_desc.png') no-repeat center right;
+    background: url('https://www.verlab.dcc.ufmg.br/script_publications/sort_desc.png') no-repeat center right;
 }
 
 .sorting {
-    background: url('images/sort_both.png') no-repeat center right;
+    background: url('https://www.verlab.dcc.ufmg.br/script_publications/sort_both.png') no-repeat center right;
 }
 
 .sorting_asc_disabled {
-    background: url('images/sort_asc_disabled.png') no-repeat center right;
+    background: url('https://www.verlab.dcc.ufmg.br/script_publications/sort_asc_disabled.png') no-repeat center right;
 }
 
 .sorting_desc_disabled {
-    background: url('images/sort_desc_disabled.png') no-repeat center right;
+    background: url('https://www.verlab.dcc.ufmg.br/script_publications/sort_desc_disabled.png') no-repeat center right;
 }
 
 tr.odd {
@@ -227,7 +227,7 @@ div.bibinfo pre code {
 }
 
 a.bibclose {
-  background: transparent url('images/close.png') no-repeat;
+  background: transparent url('https://www.verlab.dcc.ufmg.br/script_publications/close.png') no-repeat;
   display: inline-block;
   height: 21px;
   width: 21px;
@@ -238,7 +238,7 @@ a.bibclose:hover {
 }
 
 a.bibtexify-link-tweet {
-  background: transparent url('images/twitter.png') no-repeat;
+  background: transparent url('https://www.verlab.dcc.ufmg.br/script_publications/twitter.png') no-repeat;
   display: inline-block;
   height: 16px;
   width: 16px;
@@ -249,7 +249,7 @@ a.bibtexify-link-tweet:hover {
 }
 
 a.bibtexify-link-online {
-  background: transparent url('images/online.png') no-repeat;
+  background: transparent url('https://www.verlab.dcc.ufmg.br/script_publications/online.png') no-repeat;
   display: inline-block;
   height: 15px;
   width: 30px;
@@ -260,7 +260,7 @@ a.bibtexify-link-online:hover {
 }
 
 a.bibtexify-link-pdf {
-  background: transparent url('images/pdf.png') no-repeat;
+  background: transparent url('https://www.verlab.dcc.ufmg.br/script_publications/pdf.png') no-repeat;
   display: inline-block;
   height: 15px;
   width: 30px;
@@ -271,7 +271,7 @@ a.bibtexify-link-pdf:hover {
 }
 
 a.bibtexify-link-bibtex {
-  background: transparent url('images/bibtex.png') no-repeat;
+  background: transparent url('https://www.verlab.dcc.ufmg.br/script_publications/bibtex.png') no-repeat;
   display: inline-block;
   height: 15px;
   width: 30px;
